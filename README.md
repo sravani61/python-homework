@@ -26,7 +26,7 @@ This Project contains two sub projects of python code for financial analysis
 
           *Manipulating the data to calculate:
 
-              1. Total quantity of each ramen type sold.    
-              2. Revenue for each ramen type
-              3. COGS for each ramen type
-              4. Profit for each ramen type
+        1. Total quantity of each ramen type sold.    
+        2. Revenue for each ramen type
+        3. COGS for each ramen type
+        4. Profit for each ramen type
